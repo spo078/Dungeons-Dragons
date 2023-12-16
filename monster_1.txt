@@ -1,0 +1,4 @@
+Animated Armor,1
+Bugbear,1
+Harpy,1
+Scarecrow,1

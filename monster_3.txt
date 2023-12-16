@@ -1,0 +1,4 @@
+Giant Crocodile,3
+Troll,3
+Hobgoblin Warlord,3
+Mammoth,3

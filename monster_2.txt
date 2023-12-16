@@ -1,0 +1,4 @@
+Minotaur,2
+Owlbear,2
+Banshee,2
+Wereboar,2

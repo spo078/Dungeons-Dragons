@@ -1,0 +1,4 @@
+Stone Giant,4
+Night Hag,4
+Assassin,4
+Hydra,4
